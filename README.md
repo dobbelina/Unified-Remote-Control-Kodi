@@ -11,7 +11,7 @@ Button | Ontap | Onhold
 ![icon](images/codec.png) | Codec info 1 | Codec info 2
 ![icon](images/win.png) | Windows key | Focus Kodi
 
-## Screenshots
+## Screenshot
 <img src="images/Screenshot.png" />
 
 ## Support
