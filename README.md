@@ -2,6 +2,7 @@
 I made my own customized **Unified Remote** for Kodi on Windows.
 
 All the yellow buttons have double functionality depending on "tap" or "onhold", see description below.
+Download here:https://github.com/dobbelina/Unified-Remote-Kodi/releases/download/V.1/Unified_Remote_V.1.zip
 
 # Double Functionality
 Button | Ontap | Onhold
