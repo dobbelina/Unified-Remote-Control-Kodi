@@ -12,7 +12,7 @@ Button | Ontap | Onhold
 ![icon](images/win.png) | Windows key | Focus Kodi
 
 ## Screenshots
-<img src="images/screenshot.png" width="200" />
+<img src="images/Screenshot.png" width="200" />
 
 ## Support
 Developed and maintained by **Unified Remote**  
