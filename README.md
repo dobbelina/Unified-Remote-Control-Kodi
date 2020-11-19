@@ -10,7 +10,7 @@ Download here:https://github.com/dobbelina/Unified-Remote-Control-Kodi/releases/
 # Double Functionality
 Button | Ontap | Onhold
 --- |  --- | ---
-![icon](images/stop.png) | Stop | Mark Watched
+<img src="images/stop.png" width="100" /> | Stop | Mark Watched
 ![icon](images/sub.png) | Enable/Disable subtitle | Subtitle position
 ![icon](images/codec.png) | Codec info 1 | Codec info 2
 ![icon](images/win.png) | Windows key | Focus Kodi
