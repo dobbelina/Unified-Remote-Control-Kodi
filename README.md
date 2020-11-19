@@ -12,8 +12,8 @@ Button | Ontap | Onhold
 --- |  --- | ---
 <img src="images/stop.png" width="120" /> | <p align="center">Stop</p> | Mark Watched
 <img src="images/sub.png" width="120" /> | Enable/Disable subtitle | Subtitle position
-<img src="images/codec.png" width="120" /> | Codec info 1 | Codec info 2
-<img src="images/win.png" width="120" /> | Windows key | Focus Kodi
+<img src="images/codec.png" width="120" /> | <p align="center">Codec info 1</p> | Codec info 2
+<img src="images/win.png" width="120" /> | <p align="center">Windows key</p> | Focus Kodi
 
 ## Screenshot
 <img src="images/Screenshot.png" width="500" />
