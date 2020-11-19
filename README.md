@@ -11,9 +11,9 @@ Download here:https://github.com/dobbelina/Unified-Remote-Control-Kodi/releases/
 Button | Ontap | Onhold
 --- |  --- | ---
 <img src="images/stop.png" width="120" /> | <p align="center">Stop</p> | <p align="center">Mark Watched</p>
-<img src="images/sub.png" width="120" /> | Enable/Disable subtitle | Subtitle position
-<img src="images/codec.png" width="120" /> | <p align="center">Codec info 1</p> | Codec info 2
-<img src="images/win.png" width="120" /> | <p align="center">Windows key</p> | Focus Kodi
+<img src="images/sub.png" width="120" /> | <p align="center">Enable/Disable subtitle</p> | <p align="center">Subtitle position</p>
+<img src="images/codec.png" width="120" /> | <p align="center">Codec info 1</p> | <p align="center">Codec info 2</p>
+<img src="images/win.png" width="120" /> | <p align="center">Windows key</p> | <p align="center">Focus Kodi</p>
 
 ## Screenshot
 <img src="images/Screenshot.png" width="500" />
