@@ -10,6 +10,7 @@ Download here Big Icons Version:
 https://github.com/dobbelina/Unified-Remote-Control-Kodi/releases/download/V.1_Big_Icons/Unified_Remote_V.1_Big_Icons.zip
 
 ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/dobbelina/Unified-Remote-Control-Kodi/V.1/total)
+![GitHub Releases (by Release)](https://img.shields.io/github/downloads/dobbelina/Unified-Remote-Control-Kodi/V.1_Big_Icons/total)
 
 # Double Functionality
 Button | Ontap | Onhold
