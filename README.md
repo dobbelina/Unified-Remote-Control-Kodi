@@ -10,6 +10,8 @@ Download here:https://github.com/dobbelina/Unified-Remote-Control-Kodi/releases/
 # Double Functionality
 Button | Ontap | Onhold
 --- |  --- | ---
+<img src="images/pgup.png" width="120" /> | <p align="center">Page Up</p> | <p align="center">Home</p>
+<img src="images/pgdown.png" width="120" /> | <p align="center">Page Down</p> | <p align="center">End</p>
 <img src="images/stop.png" width="120" /> | <p align="center">Stop</p> | <p align="center">Mark Watched</p>
 <img src="images/sub.png" width="120" /> | <p align="center">Enable/Disable subtitle</p> | <p align="center">Subtitle position</p>
 <img src="images/codec.png" width="120" /> | <p align="center">Codec info 1</p> | <p align="center">Codec info 2</p>
