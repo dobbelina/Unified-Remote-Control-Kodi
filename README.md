@@ -6,7 +6,7 @@ All the darkgrey buttons have double functionality depending on "tap" or "onhold
 Download here:
 https://github.com/dobbelina/Unified-Remote-Control-Kodi/releases/download/V.1/Unified_Remote_V.1.zip
 
-Download here Big Icons Version:
+Download here **Big Icons** Version:
 https://github.com/dobbelina/Unified-Remote-Control-Kodi/releases/download/V.1_Big_Icons/Unified_Remote_V.1_Big_Icons.zip
 
 ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/dobbelina/Unified-Remote-Control-Kodi/V.1/total)
